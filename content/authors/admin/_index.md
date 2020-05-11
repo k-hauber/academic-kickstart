@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Aerospace & Astronautical Engineering
+  - course: BS in Aeronautical & Astronautical Engineering
     institution: Purdue University
     year: 2020
 
