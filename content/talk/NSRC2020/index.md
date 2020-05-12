@@ -1,7 +1,7 @@
 ---
 title: "Thoracic PARG: Patient Aspiration in Reduced Gravity"
 event: Next-Gen Suborbital Researchers Conference
-event_url: <https://www.boulder.swri.edu/NSRC2020/Site5/PDF/Hauber.pdf>
+event_url: https://www.boulder.swri.edu/NSRC2020/Site5/PDF/Hauber.pdf
 
 location: Broomfield, CO
 address:
